@@ -22,7 +22,7 @@ const Navbar = () =>{
 
                             </div>
                             <div className="ml-5 flex items-center space-x-4">
-                                <a href="/" className="text-black font-bold">Mark Zuckerberg</a>
+                                <a href="/" className="text-black font-bold">Nouval</a>
                             </div>
                         </div>
                     </div>
