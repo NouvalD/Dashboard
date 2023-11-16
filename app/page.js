@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import image from 'next/image'
 import Navbar from './Navbar'
 
 export default function Home() {
